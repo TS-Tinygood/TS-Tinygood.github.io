@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我的第一篇博文</title>
-    <url>/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</url>
-    <content><![CDATA[<p><strong>Hello, Internet World!</strong><br><strong>I’m coming.</strong><br><strong>I will share some ideas to you guys</strong><br><strong>in this website</strong><br><strong>And you will see some wonderful content.</strong><br><strong>Thank you.</strong></p>
-]]></content>
-      <categories>
-        <category>纪念</category>
-      </categories>
-  </entry>
-  <entry>
     <title>CSGO的一些比赛规则（一）</title>
     <url>/CSGO%E7%9A%84%E4%B8%80%E4%BA%9B%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99%EF%BC%88%E4%B8%80%EF%BC%89/</url>
     <content><![CDATA[<p><strong>1、了解CS:GO比赛的单场赛制</strong></p>
@@ -63,6 +54,15 @@
 ]]></content>
       <categories>
         <category>游戏</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>我的第一篇博文</title>
+    <url>/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/</url>
+    <content><![CDATA[<p><strong>Hello, Internet World!</strong><br><strong>I’m coming.</strong><br><strong>I will share some ideas to you guys</strong><br><strong>in this website</strong><br><strong>And you will see some wonderful content.</strong><br><strong>Thank you.</strong></p>
+]]></content>
+      <categories>
+        <category>纪念</category>
       </categories>
   </entry>
 </search>
