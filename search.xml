@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>5E实名认证教程</title>
-    <url>/5E%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<p>1、首先<a href="https://csgo.5eplay.com/person/certify">点击我</a>，登录5E账号，然后你会看到如下界面，请点击中间的人工审核</p>
-<p><img src="https://ftp.bmp.ovh/imgs/2021/01/6fcaf43526538afe.png"></p>
-<p>2、填写正确的资料，手持证件照片要看好要求，然后提交审核</p>
-<p><img src="https://ftp.bmp.ovh/imgs/2021/01/87a5f75b5e4ed165.png"></p>
-<p>3、提交完等待就行了</p>
-<p><img src="https://ftp.bmp.ovh/imgs/2021/01/7675b2a23e9858aa.png"></p>
-]]></content>
-      <categories>
-        <category>游戏</category>
-      </categories>
-  </entry>
-  <entry>
     <title>CSGO的一些比赛规则（上）</title>
     <url>/CSGO%E7%9A%84%E4%B8%80%E4%BA%9B%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99%EF%BC%88%E4%B8%8A%EF%BC%89/</url>
     <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2021/01/d1517b467324295e.jpg"></p>
@@ -27,28 +13,6 @@
 <p>以BO3赛制中的BP为例，BO3赛制会通过某种公平的方式选择本场比赛队伍中的主队和客队，主队会首先选择Ban掉哪一张地图，然后再由客队Ban掉一张，一共Ban掉两张地图后，主队会Pick一张地图，客队同理也要Pick一张，之后依次再Ban两张地图，剩余一张地图，加上之前Pick的两张，总共三张地图就成为了本场BO3的比赛地图。</p>
 <p><strong>3、了解CS:GO比赛的胜负判定</strong></p>
 <p>CS:GO的职业比赛中，每场比赛都是采用30局16胜的方式评判当场比赛的胜负。不过CS:GO比较公平的一面在于每场比赛会有上下两个半场，上半场总共有15局，且在第15局开局时，游戏会提示上半场进入最终局。当比赛进入第16局时，双方队伍会交换攻守阵营，并且经济重置为初始状态。一旦有一支队伍率先获得了15局胜利，游戏会提示来到“赛点”阶段，此时，这支队伍如果再得一分，则将被判定为本场比赛的胜出者。</p>
-]]></content>
-      <categories>
-        <category>游戏</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>CSGO的一些比赛规则（下）</title>
-    <url>/CSGO%E7%9A%84%E4%B8%80%E4%BA%9B%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99%EF%BC%88%E4%B8%8B%EF%BC%89/</url>
-    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2021/01/d1517b467324295e.jpg"></p>
-<p><strong>1、了解CS:GO比赛的加时赛</strong></p>
-<p>在csgo的比赛中，经常会出现加时赛。如果比赛双方队伍实力悬殊较小，就会出现比分15:15的平局情况，通常这会要求比赛双方进入加时赛阶段。</p>
-<p>加时赛开始时，总局数会增加6局，每个人的经济会被重置，3局比赛之后，会在第4局换边，经济将再被重置。此时只需再赢得4局比赛胜利即为胜出者。</p>
-<p>如果仍然平局，则可能会继续进入加时阶段。如有一场North对阵OpTic的比赛,连续进入了三场加时赛，最终比分定格在了25:23。Tyloo与VG在Cache上也上演过36：33的超长加时。</p>
-<p><strong>2、了解CS:GO比赛的Major</strong></p>
-<p>Major是赛事的级别，并不是赛事的名字。Valve（V社）会从赛事影响力、奖金、运营商执行力等多角度筛选出一些大型赛事。</p>
-<p>比如上次的柏林Major就是 StarLadder 运营主办的。</p>
-<p><img src="http://5b0988e595225.cdn.sohucs.com/images/20190219/5a075a396355489dabb6c60b8e1977e7.jpeg"></p>
-<p>Dota2也是有Major的不过TI规模更高。</p>
-<p><strong>3、深入了解CS:GO比赛的赛制</strong></p>
-<p>积分赛赛制：积分赛赛制通常发生在联赛之中。积分赛赛制通常会持续一段相对较长的时间，如EPL会进行8周。时间跨度超越了一般线下的杯赛。如同足球联赛一样，最后是以总体的积分来决定最后的赢家。</p>
-<p>GSL赛制：GSL赛制是在瑞士制出现之前占据统治地位的赛制。即我们常说的双败淘汰制。这种赛制相比于目前流行的瑞士制来说赛程更短，在少数队伍参加的比赛中通常会有良好的表现。Olof也非常青睐这种赛制，认为这是比瑞士制更优的选择。但GSL赛制的缺点十分明显，就是经常会由于分组的原因导致热门队伍会提前厮杀。这对于观众和队伍来说都是十分残酷的。这一点想必也是目前瑞士制大行其道的原因之一吧。</p>
-<p>瑞士制：又称积分循环制，起源瑞士的一场国际象棋比赛当中。从ESL One科隆Major预选赛后，瑞士制逐渐被CS:GO的主办方们采用。目前，瑞士制常用于CS:GO的各项赛事中。参赛队伍需要通过3至5轮的对抗选出晋级八强或四强的队伍。这种赛制的好处是避免了参赛队伍进行重复的争斗，同时也在一定程度上避免了大冷门的出现。</p>
 ]]></content>
       <categories>
         <category>游戏</category>
@@ -83,6 +47,42 @@
 <p><img src="https://ftp.bmp.ovh/imgs/2020/09/ae6692a10d0b73b8.png"></p>
 <p>未来Mojang还会做出什么样的尝试，让我们拭目以待。</p>
 <p><img src="https://ftp.bmp.ovh/imgs/2020/09/ab99b06e919b061e.png"></p>
+]]></content>
+      <categories>
+        <category>游戏</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>CSGO的一些比赛规则（下）</title>
+    <url>/CSGO%E7%9A%84%E4%B8%80%E4%BA%9B%E6%AF%94%E8%B5%9B%E8%A7%84%E5%88%99%EF%BC%88%E4%B8%8B%EF%BC%89/</url>
+    <content><![CDATA[<p><img src="https://ftp.bmp.ovh/imgs/2021/01/d1517b467324295e.jpg"></p>
+<p><strong>1、了解CS:GO比赛的加时赛</strong></p>
+<p>在csgo的比赛中，经常会出现加时赛。如果比赛双方队伍实力悬殊较小，就会出现比分15:15的平局情况，通常这会要求比赛双方进入加时赛阶段。</p>
+<p>加时赛开始时，总局数会增加6局，每个人的经济会被重置，3局比赛之后，会在第4局换边，经济将再被重置。此时只需再赢得4局比赛胜利即为胜出者。</p>
+<p>如果仍然平局，则可能会继续进入加时阶段。如有一场North对阵OpTic的比赛,连续进入了三场加时赛，最终比分定格在了25:23。Tyloo与VG在Cache上也上演过36：33的超长加时。</p>
+<p><strong>2、了解CS:GO比赛的Major</strong></p>
+<p>Major是赛事的级别，并不是赛事的名字。Valve（V社）会从赛事影响力、奖金、运营商执行力等多角度筛选出一些大型赛事。</p>
+<p>比如上次的柏林Major就是 StarLadder 运营主办的。</p>
+<p><img src="http://5b0988e595225.cdn.sohucs.com/images/20190219/5a075a396355489dabb6c60b8e1977e7.jpeg"></p>
+<p>Dota2也是有Major的不过TI规模更高。</p>
+<p><strong>3、深入了解CS:GO比赛的赛制</strong></p>
+<p>积分赛赛制：积分赛赛制通常发生在联赛之中。积分赛赛制通常会持续一段相对较长的时间，如EPL会进行8周。时间跨度超越了一般线下的杯赛。如同足球联赛一样，最后是以总体的积分来决定最后的赢家。</p>
+<p>GSL赛制：GSL赛制是在瑞士制出现之前占据统治地位的赛制。即我们常说的双败淘汰制。这种赛制相比于目前流行的瑞士制来说赛程更短，在少数队伍参加的比赛中通常会有良好的表现。Olof也非常青睐这种赛制，认为这是比瑞士制更优的选择。但GSL赛制的缺点十分明显，就是经常会由于分组的原因导致热门队伍会提前厮杀。这对于观众和队伍来说都是十分残酷的。这一点想必也是目前瑞士制大行其道的原因之一吧。</p>
+<p>瑞士制：又称积分循环制，起源瑞士的一场国际象棋比赛当中。从ESL One科隆Major预选赛后，瑞士制逐渐被CS:GO的主办方们采用。目前，瑞士制常用于CS:GO的各项赛事中。参赛队伍需要通过3至5轮的对抗选出晋级八强或四强的队伍。这种赛制的好处是避免了参赛队伍进行重复的争斗，同时也在一定程度上避免了大冷门的出现。</p>
+]]></content>
+      <categories>
+        <category>游戏</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>5E实名认证教程</title>
+    <url>/5E%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81%E6%95%99%E7%A8%8B/</url>
+    <content><![CDATA[<p>1、首先<a href="https://csgo.5eplay.com/person/certify">点击我</a>，登录5E账号，然后你会看到如下界面，请点击中间的人工审核</p>
+<p><img src="https://ftp.bmp.ovh/imgs/2021/01/6fcaf43526538afe.png"></p>
+<p>2、填写正确的资料，手持证件照片要看好要求，然后提交审核</p>
+<p><img src="https://ftp.bmp.ovh/imgs/2021/01/87a5f75b5e4ed165.png"></p>
+<p>3、提交完等待就行了</p>
+<p><img src="https://ftp.bmp.ovh/imgs/2021/01/7675b2a23e9858aa.png"></p>
 ]]></content>
       <categories>
         <category>游戏</category>
